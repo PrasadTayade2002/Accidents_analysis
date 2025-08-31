@@ -1,4 +1,4 @@
-. Accidents in urban vs rural areas
+1. Accidents in urban vs rural areas
 Urban areas have significantly more accidents (58,533) compared to rural areas (21,999).
 
 Actionable Insights:
